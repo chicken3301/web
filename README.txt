@@ -1,4 +1,4 @@
-https://chicken3301.github.io/Web
+https://chicken3301.github.io/web/
 
 
 Paradigm Shift by HTML5 UP
