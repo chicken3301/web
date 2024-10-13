@@ -1,5 +1,4 @@
-https://chicken3301.github.io/Blog-Website/
-
+https://chicken3301.github.io/Web
 
 
 Paradigm Shift by HTML5 UP
